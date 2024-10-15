@@ -11,8 +11,8 @@ const CartItems = () => {
 
   return (
     <div className="flex flex-col gap-1 flex-grow h-full overflow-y-auto overflow-x-hidden w-full">
-      {cart.map((item) => (
-        <CartItemCard cartItem={item} />
+      {cart.map((item, key) => (
+        <CartItemCard key={key} cartItem={item} />
       ))}
     </div>
   );

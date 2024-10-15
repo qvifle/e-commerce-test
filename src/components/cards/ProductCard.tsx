@@ -2,10 +2,8 @@
 import { Product } from "@/lib/types/Product.types";
 import React, { FC, useEffect } from "react";
 import Image from "next/image";
-import Button from "@/ui/buttons/Button";
 import AddToCartButton from "../buttons/AddToCartButton";
 import useCartStore, { CartProduct } from "@/store/cart";
-import { Plus, Minus, Trash } from "lucide-react";
 import ProductCounterButtonGroup from "../inputs/ProductCounterButtonGroup";
 
 interface ProductCardProps extends React.HTMLProps<HTMLDivElement> {

@@ -15,7 +15,6 @@ const Drawer: React.FC<DrawerProps> = ({
   toggle,
   children,
   side = "right",
-  className,
   ...rest
 }) => {
   const width = 500;

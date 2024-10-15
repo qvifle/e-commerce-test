@@ -17,7 +17,7 @@ const AddToCartButton: FC<AddToCartButtonProps> = ({ product, ...rest }) => {
   return (
     <Button
       variant="dark"
-      onClick={(e) => addNewProduct(product)}
+      onClick={() => addNewProduct(product)}
       icon={<Plus />}
       className="sm:text-sm"
       {...rest}>

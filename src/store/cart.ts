@@ -1,6 +1,6 @@
 import { Product } from "@/lib/types/Product.types";
 import { create } from "zustand";
-import { createJSONStorage, persist } from "zustand/middleware";
+import { persist } from "zustand/middleware";
 
 export interface CartProduct extends Product {
   count: number;

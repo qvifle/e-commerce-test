@@ -1,4 +1,3 @@
-import { Product } from "@/lib/types/Product.types";
 import useCartStore, { CartProduct } from "@/store/cart";
 import Button from "@/ui/buttons/Button";
 import { Minus, Plus, Trash } from "lucide-react";

@@ -1,8 +1,8 @@
 import { cn } from "@/lib/utils/cn";
 import { cva } from "class-variance-authority";
-import React, { FC, ReactNode } from "react";
+import React, { ButtonHTMLAttributes, FC, ReactNode } from "react";
 
-export interface ButtonProps extends React.HTMLProps<HTMLButtonElement> {
+export interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
   icon?: ReactNode;
   variant?: "default" | "dark" | "error";
 }
@@ -40,7 +40,6 @@ const Button: FC<ButtonProps> = ({
   children,
   icon,
   variant,
-  type,
   className,
   ...rest
 }) => {
