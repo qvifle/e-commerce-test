@@ -7,21 +7,23 @@
   --foreground: #171717;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  @apply text-gray-950;
 }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
+.container {
+  @apply mx-auto px-2 max-w-[1440px];
+}
+
+@keyframes bump {
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(1.02);
+  }
+  100% {
+    transform: scale(1);
   }
 }

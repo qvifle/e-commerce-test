@@ -1,0 +1,184 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 300,
+    "image": "https://images.pexels.com/photos/356056/pexels-photo-356056.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 2,
+    "name": "Book",
+    "category": "Books",
+    "price": 15,
+    "image": "https://images.pexels.com/photos/6800928/pexels-photo-6800928.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "T-shirt",
+    "category": "Clothes",
+    "price": 20,
+    "image": "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 4,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 1200,
+    "image": "https://images.pexels.com/photos/356056/pexels-photo-356056.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 5,
+    "name": "Tablet",
+    "category": "Electronics",
+    "price": 17115,
+    "image": "https://images.pexels.com/photos/356056/pexels-photo-356056.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 6,
+    "name": "Shoes",
+    "category": "Clothes",
+    "price": 65956,
+    "image": "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 7,
+    "name": "Biography",
+    "category": "Books",
+    "price": 93465,
+    "image": "https://images.pexels.com/photos/6800928/pexels-photo-6800928.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Television",
+    "category": "Electronics",
+    "price": 20468,
+    "image": "https://images.pexels.com/photos/356056/pexels-photo-356056.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 9,
+    "name": "Sweater",
+    "category": "Clothes",
+    "price": 55869,
+    "image": "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 10,
+    "name": "Non-fiction Book",
+    "category": "Books",
+    "price": 66100,
+    "image": "https://images.pexels.com/photos/6800928/pexels-photo-6800928.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Headphones",
+    "category": "Electronics",
+    "price": 44834,
+    "image": "https://images.pexels.com/photos/356056/pexels-photo-356056.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 12,
+    "name": "Fiction Book",
+    "category": "Books",
+    "price": 93529,
+    "image": "https://images.pexels.com/photos/6800928/pexels-photo-6800928.jpeg"
+  },
+  {
+    "id": 13,
+    "name": "Jacket",
+    "category": "Clothes",
+    "price": 78748,
+    "image": "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 14,
+    "name": "Camera",
+    "category": "Electronics",
+    "price": 20634,
+    "image": "https://images.pexels.com/photos/356056/pexels-photo-356056.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 15,
+    "name": "Children's Book",
+    "category": "Books",
+    "price": 92949,
+    "image": "https://images.pexels.com/photos/6800928/pexels-photo-6800928.jpeg"
+  },
+  {
+    "id": 16,
+    "name": "Smartwatch",
+    "category": "Electronics",
+    "price": 45719,
+    "image": "https://images.pexels.com/photos/356056/pexels-photo-356056.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 17,
+    "name": "Hat",
+    "category": "Clothes",
+    "price": 85592,
+    "image": "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 18,
+    "name": "Game Console",
+    "category": "Electronics",
+    "price": 20152,
+    "image": "https://images.pexels.com/photos/356056/pexels-photo-356056.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 19,
+    "name": "Skirt",
+    "category": "Clothes",
+    "price": 74048,
+    "image": "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 20,
+    "name": "Speaker",
+    "category": "Electronics",
+    "price": 14564,
+    "image": "https://images.pexels.com/photos/356056/pexels-photo-356056.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 21,
+    "name": "Cookbook",
+    "category": "Books",
+    "price": 11929,
+    "image": "https://images.pexels.com/photos/6800928/pexels-photo-6800928.jpeg"
+  },
+  {
+    "id": 22,
+    "name": "Jeans",
+    "category": "Clothes",
+    "price": 70356,
+    "image": "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 23,
+    "name": "Printer",
+    "category": "Electronics",
+    "price": 43437,
+    "image": "https://images.pexels.com/photos/356056/pexels-photo-356056.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 24,
+    "name": "Novel",
+    "category": "Books",
+    "price": 56851,
+    "image": "https://images.pexels.com/photos/6800928/pexels-photo-6800928.jpeg"
+  },
+  {
+    "id": 25,
+    "name": "Dress",
+    "category": "Clothes",
+    "price": 40857,
+    "image": "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 26,
+    "name": "Science Book",
+    "category": "Books",
+    "price": 49610,
+    "image": "https://images.pexels.com/photos/6800928/pexels-photo-6800928.jpeg"
+  }
+]
