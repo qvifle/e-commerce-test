@@ -5,7 +5,7 @@
 ### Docker
 
 ```bash
-docker-compose up . -d --build
+docker-compose up -d --build
 ```
 
 Открываем в браузере [http://localhost:3000](http://localhost:3000)
