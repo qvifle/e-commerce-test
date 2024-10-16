@@ -49,17 +49,17 @@ const Products = () => {
   }
 
   return (
-    <div className="sm:grid sm:grid-cols-[250px,1fr] sm:gap-4">
+    <div className="sm:grid sm:grid-cols-[200px,1fr] md:grid-cols-[250px,1fr] sm:gap-4">
       <div >
         <SearchInput onChange={(e) => setSearchValue(e.target.value)} />
 
-        <div className="flex w-full justify-between mb-4">
+        <div className="flex w-full justify-between sm:flex-col  md:flex-row mb-4">
           <FilterByCategoryCheckboxGroup
             categories={PRODUCT_CATEGORIES}
             handleChangeCategories={setCategories}
           />
 
-          <div className="flex w-full h-full justify-end">
+          <div className="flex w-full h-full justify-end sm:justify-start md:justify-end">
             <SortByPriceSelect setSort={setSort} />
           </div>
         </div>

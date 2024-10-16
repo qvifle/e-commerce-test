@@ -28,6 +28,9 @@ const ProductCard: FC<ProductCardProps> = ({ product }) => {
           src={product?.image ?? "/no-content.png"}
           alt={product.name}
           className="rounded-[3px] "
+          priority
+          placeholder="blur"
+          blurDataURL={product?.image ?? "/no-content.png"}
           fill
         />
       </div>

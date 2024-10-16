@@ -6,4 +6,4 @@ export interface Product {
   image: string | null;
 }
 
-export type ProductCategory = "Electronics" | "Clothes" | "Book";
+export type ProductCategory = "Electronics" | "Clothes" | "Books";
